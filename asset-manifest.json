@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/switching-program/static/css/main.f1b253c2.css",
-    "main.js": "/switching-program/static/js/main.bb2ba06f.js",
-    "static/js/239.f31b06a3.chunk.js": "/switching-program/static/js/239.f31b06a3.chunk.js",
-    "static/js/213.78730483.chunk.js": "/switching-program/static/js/213.78730483.chunk.js",
-    "static/js/732.5ed66fa1.chunk.js": "/switching-program/static/js/732.5ed66fa1.chunk.js",
-    "static/media/glyphicons-halflings-regular.svg": "/switching-program/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
-    "static/media/TitilliumWeb-Regular.ttf": "/switching-program/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
-    "static/media/glyphicons-halflings-regular.ttf": "/switching-program/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
-    "static/media/glyphicons-halflings-regular.woff": "/switching-program/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
-    "static/media/glyphicons-halflings-regular.eot": "/switching-program/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
-    "static/media/glyphicons-halflings-regular.woff2": "/switching-program/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
-    "index.html": "/switching-program/index.html",
-    "main.f1b253c2.css.map": "/switching-program/static/css/main.f1b253c2.css.map",
-    "main.bb2ba06f.js.map": "/switching-program/static/js/main.bb2ba06f.js.map",
-    "239.f31b06a3.chunk.js.map": "/switching-program/static/js/239.f31b06a3.chunk.js.map",
-    "213.78730483.chunk.js.map": "/switching-program/static/js/213.78730483.chunk.js.map",
-    "732.5ed66fa1.chunk.js.map": "/switching-program/static/js/732.5ed66fa1.chunk.js.map"
+    "main.css": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/css/main.ae5f60bf.css",
+    "main.js": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/js/main.d24c2600.js",
+    "static/js/239.f31b06a3.chunk.js": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/js/239.f31b06a3.chunk.js",
+    "static/js/213.78730483.chunk.js": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/js/213.78730483.chunk.js",
+    "static/js/732.5ed66fa1.chunk.js": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/js/732.5ed66fa1.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/TitilliumWeb-Regular.ttf": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/glyphicons-halflings-regular.ttf": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/index.html",
+    "main.ae5f60bf.css.map": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/css/main.ae5f60bf.css.map",
+    "main.d24c2600.js.map": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/js/main.d24c2600.js.map",
+    "239.f31b06a3.chunk.js.map": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/js/239.f31b06a3.chunk.js.map",
+    "213.78730483.chunk.js.map": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/js/213.78730483.chunk.js.map",
+    "732.5ed66fa1.chunk.js.map": "/PMV-HV-SWITCHING-PROGRAMS/switching-program/static/js/732.5ed66fa1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1b253c2.css",
-    "static/js/main.bb2ba06f.js"
+    "static/css/main.ae5f60bf.css",
+    "static/js/main.d24c2600.js"
   ]
 }
