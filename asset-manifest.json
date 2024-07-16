@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PMV-HV-Switching-Programs/static/css/main.71e02d72.css",
+    "main.js": "/PMV-HV-Switching-Programs/static/js/main.0cee6e2e.js",
+    "static/js/239.f31b06a3.chunk.js": "/PMV-HV-Switching-Programs/static/js/239.f31b06a3.chunk.js",
+    "static/js/213.78730483.chunk.js": "/PMV-HV-Switching-Programs/static/js/213.78730483.chunk.js",
+    "static/js/732.5ed66fa1.chunk.js": "/PMV-HV-Switching-Programs/static/js/732.5ed66fa1.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/PMV-HV-Switching-Programs/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/TitilliumWeb-Regular.ttf": "/PMV-HV-Switching-Programs/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/glyphicons-halflings-regular.ttf": "/PMV-HV-Switching-Programs/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/PMV-HV-Switching-Programs/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/PMV-HV-Switching-Programs/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/PMV-HV-Switching-Programs/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/PMV-HV-Switching-Programs/index.html",
+    "main.71e02d72.css.map": "/PMV-HV-Switching-Programs/static/css/main.71e02d72.css.map",
+    "main.0cee6e2e.js.map": "/PMV-HV-Switching-Programs/static/js/main.0cee6e2e.js.map",
+    "239.f31b06a3.chunk.js.map": "/PMV-HV-Switching-Programs/static/js/239.f31b06a3.chunk.js.map",
+    "213.78730483.chunk.js.map": "/PMV-HV-Switching-Programs/static/js/213.78730483.chunk.js.map",
+    "732.5ed66fa1.chunk.js.map": "/PMV-HV-Switching-Programs/static/js/732.5ed66fa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71e02d72.css",
+    "static/js/main.0cee6e2e.js"
+  ]
+}
